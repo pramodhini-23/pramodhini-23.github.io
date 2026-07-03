@@ -1,7 +1,7 @@
 AUTHOR = 'Pramodhini'
 SITENAME = 'Pramodhini'
 SITETITLE = 'Pramodhini'
-SITEURL = ""
+SITEURL = "https://pramodhini-23.github.io/"
 PATH = "content"
 TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
