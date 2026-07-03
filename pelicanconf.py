@@ -1,7 +1,7 @@
 AUTHOR = 'Pramodhini'
 SITENAME = 'Pramodhini'
 SITETITLE = 'Pramodhini'
-SITEURL = "https://pramodhini-23.github.io/pramodhini/"
+SITEURL = "https://pramodhini-23.github.io/pramodhini"
 PATH = "content"
 TIMEZONE = 'Asia/Kolkata'
 DEFAULT_LANG = 'en'
@@ -47,4 +47,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+# RELATIVE_URLS = True 123
